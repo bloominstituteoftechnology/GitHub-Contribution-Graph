@@ -1,6 +1,6 @@
 # GitHub Contribution Graph
 
-![Heat Map Example](https://github.com/LambdaSchool/Code-Review-Checklist/raw/master/img/heatmap.png)
+![Heat Map Example](https://raw.githubusercontent.com/LambdaSchool/Code-Review-Checklist/master/img/contribution-graph-heat-map.png)
 
 ## If you'd like your work to count on your GitHub contribution graph, do the following:
 
