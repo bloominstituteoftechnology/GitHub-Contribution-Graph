@@ -1,5 +1,5 @@
 # GitHub Contribution Graph
-- per: https://github.com/LambdaSchool/Code-Review-Checklist
+:octocat:
 
 ![Heat Map](img/contribution-graph-heat-map.png)
 
