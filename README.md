@@ -5,7 +5,7 @@
 
 ### Please take a moment to review GitHub's "[Learn How We Count Contributions](https://help.github.com/articles/why-are-my-contributions-not-showing-up-on-my-profile)" page. In particular the "[Commit Was Made In A Fork](https://help.github.com/articles/why-are-my-contributions-not-showing-up-on-my-profile/#commit-was-made-in-a-fork)" section. If you'd like all of your work to be reflected on your GitHub Contribution Graph, you can do the following:
 
-### "De-Forking" Your Project
+# "De-Forking" Your Project
 
 1. **DO NOT DELETE YOUR LOCAL PROJECT!**
 2. If you want your new and "non-forked" GitHub project name to match the old project name, first [rename](#how-to-rename-your-old-github-repo) or [delete](#how-to-delete-your-old-github-repo) your forked GitHub repository. Do this _**on**_ GitHub. You can access the renaming and deleting options on GitHub in the "Settings" tab of your fork. Don't worry, if you delete your GitHub fork, your local copy will be safe.
