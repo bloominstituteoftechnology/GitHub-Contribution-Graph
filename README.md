@@ -1,3 +1,23 @@
+# UPDATE
+
+```
+We recommend against de-forking while in class - just so all the links submitted stay active. But, you don't really need to de-fork anything.
+
+All the commit history lives in the `.git` folder in the local Git repo directory - you just need to get the project up to GitHub. This can be as simple as:
+
+1. creating a new repo on GitHub,
+2. giving it a unique name to help distinguish it in your GitHub repository list, and
+3. pushing the project up to the new GitHub repository.
+
+It might help to make a "Team" to keep the "active student" repositories separate from the ones pushed up for the heatmap.
+```
+
+***
+
+# THE FOLLOWING IS DEPRECATED
+
+***
+
 # GitHub Contribution Graph
 :octocat:
 
