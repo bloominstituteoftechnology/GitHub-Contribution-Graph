@@ -1,4 +1,4 @@
-# UPDATE
+### UPDATE
 
 We recommend against de-forking while in class - just so all the links submitted stay active. But, you don't really need to de-fork anything.
 
@@ -10,13 +10,13 @@ All the commit history lives in the `.git` folder in the local Git repo director
 
 It might help to make a "Team" to keep the "active student" repositories separate from the ones pushed up for the heatmap.
 
-Latest update: 2/8/2019
+Our branching workflow will result in contributions reflected in your heatmap.
+
+Latest update: 2/8/2019 :octocat:
 
 ***
 
-# THE FOLLOWING IS DEPRECATED
-
-***
+<details><summary>THE FOLLOWING IS DEPRECATED</summary><p>
 
 # GitHub Contribution Graph
 :octocat:
@@ -105,3 +105,6 @@ $  git push origin master
 <p align="right"><a href="#de-forking-your-project">Go back to "De-Forking"</a></p>
 
 :octocat:
+
+
+</p></details>
