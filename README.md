@@ -10,6 +10,8 @@ All the commit history lives in the `.git` folder in the local Git repo director
 
 It might help to make a "Team" to keep the "active student" repositories separate from the ones pushed up for the heatmap.
 
+Latest update: 2/8/2019
+
 ***
 
 # THE FOLLOWING IS DEPRECATED
